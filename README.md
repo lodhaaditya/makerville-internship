@@ -3,7 +3,6 @@ Makerville Internship
 
 Firstly download all the files and then 
 
-Steps to execute 
 
  1.Open Sample.html with any browser that of your choice.
  
